@@ -1,2 +1,8 @@
 
 /* Your CSS Code here. */
+body{
+	text-align:center;
+}
+img{
+	border-radius:50%
+}
